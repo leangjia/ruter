@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-This is Ruter, a Python programmer.
+This is Leangjia, a Python programmer.
 
-![Ruter's github stats](https://github-readme-stats.vercel.app/api?username=ruter)
+![Leangjia's github stats](https://github-readme-stats.vercel.app/api?username=leangjia)
 
 <!--
 **ruter/ruter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
